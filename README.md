@@ -1,4 +1,4 @@
-### <h1><b>Hi there, I'm Deividas!</b></h1>👋
+### <h1><b>Hi there, I'm Deividas!👋</b></h1>
 I'm Deividas from Lithuania, and I currently working on my jurney to cybersecurity. 
 
 ### <h1><b>🌱 I’m currently learning for:</b></h1>
