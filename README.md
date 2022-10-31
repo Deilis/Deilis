@@ -4,8 +4,8 @@ I'm Deividas from Lithuania, and I currently working on my jurney to cybersecuri
 
 - 🔭 I’m currently working on few Cybersec projects.
 - 🌱 I’m currently learning for :
-                                   Junior tester role [Studying at ...];
-                                   eJPT Certification [Junior Penetration Tester];
+																	Junior tester role [Studying at ...];
+																	 eJPT Certification [Junior Penetration Tester];
                                    eCIR Certification [Incident Responder];
                                    CompTIA Security+, Networking+ Certification;
                                    
