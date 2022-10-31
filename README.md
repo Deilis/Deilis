@@ -1,27 +1,16 @@
-### Hi there 👋
-
+### <h1><b>Hi there, I'm Deividas!</b></h1>👋
 I'm Deividas from Lithuania, and I currently working on my jurney to cybersecurity. 
 
-- 🔭 I’m currently working on few Cybersec projects.
-- 🌱 I’m currently learning for :
- Junior tester role [Studying at ...]
- eJPT Certification [Junior Penetration Tester]
- eCIR Certification [Incident Responder]
- CompTIA Security+, Networking+ Certification
-                                   
+### <h1><b>🌱 I’m currently learning for:</b></h1>
+<ul>
+ <li>Junior tester role <i>[Studying at ...]</i></li>
+ <li>eJPT Certification <i>[Junior Penetration Tester]</i></li>
+ <li>eCIR Certification <i>[Incident Responder]</i></li>
+ <li>CompTIA Security+, Networking+ Certification</li>
+</ul>
 
+### <h1>🔭 I’m currently working on few Cybersec projects.</h1>
 
-<!--
-**Deilis/Deilis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deilis&show_icons=true&theme=radical)
