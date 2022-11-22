@@ -17,7 +17,7 @@ ___________________
  <li>Junior tester role <i>[Studying at VTMC]</i></li>
  <li>eJPT Certification <i>[Junior Penetration Tester]</i></li>
  <li>eCIR Certification <i>[Incident Responder]</i></li>
- <li>CompTIA Security+, Networking+ Certification</li>
+  <li><a href="https://github.com/Deilis/CompTIA"> CompTIA Security+, Networking+ Certification</a></li>
 </ul>
 
 ### <h1>🔭 Current projects (ideas):</h1>
