@@ -7,6 +7,8 @@ ___________________
   <li>In 2018 started my career as investigator in police (non cyber crime related things.. we got to start somehwere *sign*).</li>
   <li>In 2019 got promotion from investigator to chief investigator and started my journey as chief investigator at Cyber Crimes.</li>
   <li>Since 2019, I have expanded my knowledge in Cyber Crime related crimes (e.g. Database thefts, DDo(S), MIM, Phishing, Smishing ex.)</li>
+  <li>In 20222 got promotion from chief investigator to senior investigator at Cyber Crimes.</li>
+  <br>
   <li>From 2020 started to invest more and more time into Cyber Security.</li>
 </ul>
 
