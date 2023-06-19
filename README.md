@@ -1,5 +1,7 @@
 ### <h1><b>Hi there, I'm Deividas!👋</b></h1>
-I'm Deividas from Lithuania, and currently working in police as Chief Investigator in Cyber Crime related Crimes.. and this is my journey to Cyber Security (still on it..tho). 
+I'm Deividas from Lithuania, and I worked as Chief Investigator in Cyber Crime related Crimes.. 
+
+And now I'm working as Cyber Threat Intelligence Analyst at Amerisourcebergen...and this is my journey to Cyber Security (still on it..tho). 
 ___________________
 <b>Quick bio about me:</b>
 <ul>
