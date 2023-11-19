@@ -25,28 +25,7 @@ ___________________
 
 ### <h1>🔭 Current projects (ideas):</h1>
 <ul>
-<li><i>Simple REST API</i></li>
- <li><i>Active Directory Enviroment (Walkthrough, Screenshots etc.)</i></li>
- <li><i>SIEM in Azure (Walkthrough, Screenshots etc.)</i></li>
- <li><i>Vulnerability Managment Lab (Walkthrough, Screenshots etc.)</i></li>
- <li><i>HackTheBox Walkthroughs</i></li>
- <li><i>TryToHack Walkthroughs</i></li>
- <li><i>Python projects</i></li>
-  <ul>
-  <li><i>Keylogger</i></li>
-  <li><i>Simple Cipher (Encryption/Decryption)</i></li>
-  <li><i>Packet Sniffer</i></li>
-  <li><i>Password Strength Tester</i></li>
-  <li><i>Email Monotoring System (Phishing)</i></li>
-  <li><i>Img decryption/Encryption</i></li>
-  <li><i>RFID Blocking</i></li>
-  </ul>
- <li><i>Bash</i></li>
- <li><i>Hacking Lab</i></li>
- <li><i>Network Subnetting></i></li>
- <li><i>Docker Network</i></li>
- <li><i>Cyber Security Polyicies from scratch</i></li>
-</ul>
+<li><i>IOC validation python script</i></li>
 
 ### Current Stats
 
