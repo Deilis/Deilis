@@ -20,13 +20,19 @@ ___________________
  <li>eJPT Certification <i>[Junior Penetration Tester]</i></li>
  <li>eCIR Certification <i>[Incident Responder]</i></li>
  <li>PJMR Certification <i>[TCM Malware Junior Malware Researcher]</i></li>
-  <li><a href="https://github.com/Deilis/CompTIA"> CompTIA Security+, Networking+ Certification</a></li>
+  <li><a href="https://github.com/Deilis/CompTIA"> CompTIA Security+, Networking+ Certification </a></li>
 </ul>
 
 ### <h1>🔭 Current projects (ideas):</h1>
 <ul>
-<li><i>IOC validation python script</i></li>
+<li><a href="https://github.com/Deilis/IOC-validator-deivscan"><b>IOC validation python script</b></a></li>
+<li>...</li>
+<li>....</li>
+<li>......</li>
+<br>
+<br>
+<br>
 
-### Current Stats
+### <h1>🔭 Current Stats:</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deilis&show_icons=true&theme=radical)
