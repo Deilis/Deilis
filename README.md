@@ -11,7 +11,6 @@ ___________________
   <li>Since 2019, I have expanded my knowledge in Cyber Crime related crimes (e.g. Database thefts, DDo(S), MIM, Phishing, Smishing ex.)</li>
   <li>In 2022 got promotion from chief investigator to senior investigator at Cyber Crimes.</li>
   <li>In 2023 May joined Amerisourcebergen as Cyber Threat Intelligence Analyst (Amerisourcebergen currently renamed to Cencora)</li>
-  <br>
   <li>In 2023 November joined Nord Security as Cyber Tgreat Intelligence Researcher. 
   <li>From 2020 started to invest more and more time into Cyber Security.</li>
 </ul>
