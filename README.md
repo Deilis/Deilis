@@ -1,7 +1,8 @@
 ### <h1><b>Hi there, I'm Deividas!👋</b></h1>
 I'm Deividas from Lithuania, and I worked as Chief Investigator in Cyber Crime related Crimes.. 
 
-And now I'm working as Cyber Threat Intelligence Researcher at Nord Security (aka best VPN and user security provider out there)...and this is my journey to Cyber Security (still on it..tho). 
+And now I'm working as CTI for past 3 years. 
+Overall 7-8 years in Cyber Crime Threat Intelligence, and Cyber Threat Intelligence.
 ___________________
 <b>Quick bio about me:</b>
 <ul>
@@ -13,14 +14,6 @@ ___________________
   <li>In 2023 May joined Amerisourcebergen as Cyber Threat Intelligence Analyst (Amerisourcebergen currently renamed to Cencora)</li>
   <li>In 2023 November joined Nord Security as Cyber Tgreat Intelligence Researcher. 
   <li>From 2020 started to invest more and more time into Cyber Security.</li>
-</ul>
-
-### <h1><b>🌱 Studies ATM:</b></h1>
-<ul>
- <li>eJPT Certification <i>[Junior Penetration Tester]</i></li>
- <li>eCIR Certification <i>[Incident Responder]</i></li>
- <li>PJMR Certification <i>[TCM Malware Junior Malware Researcher]</i></li>
-  <li><a href="https://github.com/Deilis/CompTIA"> CompTIA Security+, Networking+ Certification </a></li>
 </ul>
 
 ### <h1>🔭 Current projects (ideas):</h1>
