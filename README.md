@@ -1,31 +1,29 @@
-### <h1><b>Hi there, I'm Deividas!👋</b></h1>
-I'm Deividas from Lithuania, and I worked as Chief Investigator in Cyber Crime related Crimes.. 
+# Deividas Lis
 
-And now I'm working as CTI for past 3 years. 
-Overall 7-8 years in Cyber Crime Threat Intelligence, and Cyber Threat Intelligence.
-___________________
-<b>Quick bio about me:</b>
-<ul>
-  <li>In 2018 finished Bachelor of Law and started my journey with ambitions to expand my knowledge in cybersecurity and cyber crimes..</li>
-  <li>In 2018 started my career as investigator in police (non cyber crime related things.. we got to start somehwere *sign*).</li>
-  <li>In 2019 got promotion from investigator to chief investigator and started my journey as chief investigator at Cyber Crimes.</li>
-  <li>Since 2019, I have expanded my knowledge in Cyber Crime related crimes (e.g. Database thefts, DDo(S), MIM, Phishing, Smishing ex.)</li>
-  <li>In 2022 got promotion from chief investigator to senior investigator at Cyber Crimes.</li>
-  <li>In 2023 May joined Amerisourcebergen as Cyber Threat Intelligence Analyst (Amerisourcebergen currently renamed to Cencora)</li>
-  <li>In 2023 November joined Nord Security as Cyber Tgreat Intelligence Researcher. 
-  <li>From 2020 started to invest more and more time into Cyber Security.</li>
-</ul>
+Cyber threat intelligence researcher and former cybercrime investigator, based in Vilnius. I write and edit
+[HECAVEX](https://hecavex.com/en/), an independent publication on cybercrime infrastructure, malware, fraud and
+information operations, in English and Lithuanian.
 
-### <h1>🔭 Current projects (ideas):</h1>
-<ul>
-<li><a href="https://github.com/Deilis/IOC-validator-deivscan"><b>IOC validation python script</b></a></li>
-<li>...</li>
-<li>....</li>
-<li>......</li>
-<br>
-<br>
-<br>
+## Research
 
-### <h1>🔭 Current Stats:</h1>
+- **[HECAVEX](https://hecavex.com/en/research/)**: investigations, malware analyses and threat-hunting guides.
+- **[Signal Briefs](https://hecavex.com/en/briefings/)**: a weekly review of exploited vulnerabilities and incidents
+  that defenders should track.
+- **[HECAVEX Radar](https://radar.hecavex.com/)**: newly seen domains that imitate Lithuanian brands.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deilis&show_icons=true&theme=radical)
+## Indicators and detections
+
+- **[optimjack-iocs](https://github.com/Deilis/optimjack-iocs)**: IOCs, YARA, KQL and Splunk rules for OPTIMJACK, the
+  Optimizely `track.js` supply-chain attack of 16 November 2026.
+  Write-up: [OPTIMJACK: Inside track.js, 26 Builds and the Money Trail of the Optimizely Attack](https://hecavex.com/en/research/optimizely-supply-chain-track-js/).
+
+## What I work on
+
+- Tactical and technical cyber threat intelligence
+- OSINT and infrastructure analysis
+- Fraud, social engineering and cybercrime investigations
+- Python automation and detection engineering
+
+## Contact
+
+[hecavex.com/en/contact](https://hecavex.com/en/contact/) · [LinkedIn](https://www.linkedin.com/in/deilis)
