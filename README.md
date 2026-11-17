@@ -13,37 +13,7 @@ threat intelligence in 2023 I was a police investigator in Lithuania, most of th
 
 ## How HECAVEX fits together
 
-```mermaid
-flowchart LR
-    HX(["HECAVEX"]):::hub
-
-    subgraph PUB["Publication · hecavex.com · EN and LT"]
-        R["Research<br/>investigations, malware analyses, guides"]
-        SB["Signal Briefs<br/>weekly review for defenders"]
-        ADV["Advisories<br/>HX-2026-001 PHP2Shell"]
-    end
-
-    subgraph RAD["Radar · radar.hecavex.com"]
-        RD["Sites that imitate<br/>Lithuanian brands"]
-        FEED["Lists and alert feeds<br/>JSON, STIX, RSS"]
-    end
-
-    subgraph OPEN["Open data"]
-        DATA["Data bundle and detection<br/>rules with each investigation"]
-        GH["GitHub<br/>optimjack-iocs"]
-    end
-
-    HX --> R
-    HX --> SB
-    HX --> ADV
-    HX --> RD
-    RD --> FEED
-    R --> DATA
-    DATA --> GH
-    RD -. "monthly baseline" .-> R
-
-    classDef hub stroke:#4fb3ad,stroke-width:3px;
-```
+<img src="assets/hecavex-map.png" alt="Map of HECAVEX. Radar finds brand look-alike sites in certificate logs and public scans and publishes lists and alert feeds; its monthly baseline feeds the research. The publication at hecavex.com holds research, weekly Signal Briefs and advisories. Each investigation ships a data bundle with IOCs and detection rules, mirrored in the optimjack-iocs repository." width="100%">
 
 | Project | What it is | Where |
 | --- | --- | --- |
